@@ -16,5 +16,4 @@ def assign_rooms(attendees)
     room_assignment +=1
     return ["Hello, #{name}! You'll be assigned to room #{room_assignment}!"]
   end
-  array
 end
